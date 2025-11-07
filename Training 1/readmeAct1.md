@@ -1,0 +1,1 @@
+En aquesta activitat hem utilitzat el print, per posar "Hello World"

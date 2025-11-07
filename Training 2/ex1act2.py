@@ -19,4 +19,6 @@ else:
 print(f"Suma: {suma}")
 print(f"Resta: {resta}")
 print(f"Multiplicació: {multiplicacio}")
-print
+print (f"Divisió: {divisio}")
+# Programa que demana dos nombres enters a l'usuari
+# i calcula la suma, resta, multiplicació i divisió d'aquests nombres.
